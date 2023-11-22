@@ -54,10 +54,10 @@ Analytics Page
 ![Landing Page](./Frontend/src/assets/Page4.png)
 
 ## Contributors
-- [Ankit Kumar](https://github.com/ankitsimari)
 - [Sourav Biswas](https://github.com/souravsb66)
-- [Makarand Gijam](https://github.com/gmak22/)
+- [Ankit Kumar](https://github.com/ankitsimari)
 - [Mohammad Mukhtar Mohsin](https://github.com/mdmukhtarmohsin)
+- [Makarand Gijam](https://github.com/gmak22/)
 
 ## Features
 ### 1. AI Chat
